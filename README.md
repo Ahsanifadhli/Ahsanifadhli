@@ -47,11 +47,16 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 
 ---
 
-## 🌱 Nilai & Refleksi
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsanifadhli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahsanifadhli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🔍 Sedang membangun kebiasaan refleksi mingguan untuk melacak keaslian, mood, dan energi sosial
-- 🧘‍♂️ Fokus pada kekuatan dalam diri sebelum membantu orang lain
-- 🌀 Terbuka terhadap ambiguitas kepribadian—antara introvert dan ekstrovert, antara logika dan rasa
+###
+
+<img src="https://raw.githubusercontent.com/Ahsanifadhli/Ahsanifadhli/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
