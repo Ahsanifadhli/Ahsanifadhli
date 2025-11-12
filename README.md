@@ -39,11 +39,10 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 
 ---
 
-## 📊 Statistik GitHub
+## My Uma Musume
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsani&layout=compact&theme=tokyonight" />
+  <img src="https://i.imgur.com/uG3xyKl.gif" alt="Yudine Pixel Art" width="200"/>
 </p>
 
 ---
