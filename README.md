@@ -6,7 +6,7 @@
 <h1 align="center">✨ Ahsani — Coding with Heart & Spirit ✨</h1>
 
 <p align="center">
-  Mahasiswa Teknologi Rekayasa Perangkat Lunak | Web & Mobile Developer | Edukator | Anime Enthusiast
+  Undergraduate Software Engineering Technology Student at Gadjah Mada University | Web & Mobile Developer | Edukator | Anime Enthusiast | Uma Musume Fans
 </p>
 
 ---
@@ -21,9 +21,9 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 
 ## 🛠️ Skill & Tools
 
-- 💻 **Web & Mobile Dev**: Flutter, Laravel, Android SDK
+- 💻 **Web & Mobile Dev**: HTML, CSS, JS, Flutter, Laravel, Android SDK
 - 🧠 **Backend & Server**: REST API, Composer, Git, CI/CD
-- 🗃️ **Database**: Hive, Sqflite
+- 🗃️ **Database**: MySQL
 - 🔐 **Cryptography & Challenge Solving**
 - 📚 **Technical Writing & Educational Scripting**
 
@@ -33,9 +33,9 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 
 | Proyek | Deskripsi |
 |-------|-----------|
-| 🗓️ [Weekly Reflection Web App](https://github.com/username/reflection-app) | Alat interaktif untuk refleksi mingguan, cocok untuk introspeksi ala slice-of-life |
-| 🧠 [QR & Cipher Decoder](https://github.com/username/qr-decoder) | Skrip Python untuk edukasi kriptografi dan challenge solving |
-| 🛠️ [Jetpack Compose Module Fix](https://github.com/username/compose-fix) | Perbaikan minimalis dan modern untuk modul Compose |
+| 🗓️ [Weekly Reflection Web App](https://github.com/ahsanifadhli/MySelf) | Alat interaktif untuk refleksi mingguan, cocok untuk introspeksi ala slice-of-life |
+| 🧠 [Website Iuran Desa](https://github.com/ahsanifadhli/proyek-iuran-desa) | Sebuah website iuran desa yang akan digunakan untuk warga desa bengle RT 028, framework yang digunakan adalah Laravel 12 |
+| 🛠️ [Aplikasi Sistem Laporan Keuangan Toko Kue](https://github.com/ahsanifadhli/SIMTokoKue) | Proyek kelompok 11 dalam membuat aplikasi sistem laporan keuangan dari toko kue yang ada di Wonosari, Bantul, Yogyakarta|
 
 ---
 
@@ -59,9 +59,8 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 ## 📫 Hubungi Saya
 
 - 🌐 [Website/Blog](https://yourwebsite.com)
-- 📷 [Instagram](https://instagram.com/yourhandle)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- ✉️ Email: ahsani@example.com
+- 📷 [Instagram](https://instagram.com/ahsanifadhli_official)
+- ✉️ Email: ahsani.fadhli@gmail.com
 
 ---
 
