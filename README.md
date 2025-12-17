@@ -1,12 +1,9 @@
 <!-- Header GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/sJEpVlo.gif" alt="Yudine Pixel Art" width="200"/>
-</p>
 
 <h1 align="center">✨ Ahsani — Coding with Heart & Spirit ✨</h1>
 
 <p align="center">
-  Undergraduate Software Engineering Technology Student at Gadjah Mada University | Web & Mobile Developer | Edukator | Anime Enthusiast | Uma Musume Fans
+  Undergraduate Software Engineering Technology Student at Gadjah Mada University | Web & Mobile Developer | Edukator 
 </p>
 
 ---
@@ -15,8 +12,6 @@
 
 Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka membangun aplikasi, menyusun dokumentasi teknis, dan membuat tutorial untuk membantu teman-teman belajar pemrograman. Saya percaya bahwa teknologi bukan hanya soal logika, tapi juga soal hati, estetika, dan makna.
 
-> “Setiap baris kode adalah langkah menuju versi diriku yang lebih kuat. Seperti protagonis yang terus belajar, gagal, bangkit, dan akhirnya bersinar.” 🌠
-
 ---
 
 ## 🛠️ Skill & Tools
@@ -24,7 +19,6 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 - 💻 **Web & Mobile Dev**: HTML, CSS, JS, Flutter, Laravel, Android SDK
 - 🧠 **Backend & Server**: REST API, Composer, Git, CI/CD
 - 🗃️ **Database**: MySQL
-- 🔐 **Cryptography & Challenge Solving**
 - 📚 **Technical Writing & Educational Scripting**
 
 ---
@@ -36,14 +30,6 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 | 🗓️ [Weekly Reflection Web App](https://github.com/ahsanifadhli/MySelf) | Alat interaktif untuk refleksi mingguan, cocok untuk introspeksi ala slice-of-life |
 | 🧠 [Website Iuran Desa](https://github.com/ahsanifadhli/proyek-iuran-desa) | Sebuah website iuran desa yang akan digunakan untuk warga desa bengle RT 028, framework yang digunakan adalah Laravel 12 |
 | 🛠️ [Aplikasi Sistem Laporan Keuangan Toko Kue](https://github.com/ahsanifadhli/SIMTokoKue) | Proyek kelompok 11 dalam membuat aplikasi sistem laporan keuangan dari toko kue yang ada di Wonosari, Bantul, Yogyakarta|
-
----
-
-## My Uma Musume
-
-<p align="center">
-  <img src="https://i.imgur.com/uG3xyKl.gif" alt="Yudine Pixel Art" width="200"/>
-</p>
 
 ---
 
@@ -68,6 +54,5 @@ Halo! Saya Ahsani, seorang mahasiswa dari Universitas Gadjah Mada yang suka memb
 
 ---
 
-<p align="center">
-  <em>“Code is my ninjutsu. Teaching is my senjutsu. Growth is my journey.” 🐾</em>
-</p>
+> “🔥هُزِمَ الأعداء، واهتزت السماء” 🌠
+
